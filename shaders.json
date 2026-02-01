@@ -1,0 +1,8 @@
+{
+  "shaders": [
+    {
+      "name": "Hello World",
+      "file": "shaders/hello_world.glsl"
+    }
+  ]
+}
